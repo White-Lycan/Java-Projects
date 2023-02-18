@@ -5,13 +5,13 @@ public class Part_3 {
 	public static void main(String[] args) {
 		java.util.Scanner input = new java.util.Scanner(System.in);
 		
-		System.out.println("Enter year: (e.g., 2023): ");
+		System.out.println("Enter the year: (e.g., 2023): ");
 		int k = input.nextInt();
 		
-		System.out.println("Enter month: 1 - 12: ");
+		System.out.println("Enter the month: 1 - 12: ");
 		int m = input.nextInt();
 		
-		System.out.println("Enter the dat of the month: 1 - 31: ");
+		System.out.println("Enter the date of the month: 1 - 31: ");
 		int q = input.nextInt();
 		
 		int j = k / 100;
