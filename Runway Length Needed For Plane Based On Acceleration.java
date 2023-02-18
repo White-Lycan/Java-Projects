@@ -4,7 +4,7 @@ public class Part_2 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		System.out.println("Ebter the speed and acceleration: ");
+		System.out.println("Enter the speed and acceleration: ");
 		double number1 = input.nextDouble();
 		double number2 = input.nextDouble();
 		
